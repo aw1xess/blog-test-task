@@ -7,7 +7,7 @@
 
 ## Демо
 
-[Відкрити сайт на GitHub Pages]()
+[Відкрити сайт на Vercel](https://blog-test-task-pink.vercel.app/)
 
 ---
 
